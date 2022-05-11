@@ -1,10 +1,10 @@
 {
-    "symbol": "CSY",
-    "name": "CoinSky",
-    "description": "CoinSky (CSY) is a crypto coin with a total supply of 100,000,000,000 CSY is based on the telegram bot @coinskybot",
-    "website": "https://coinsky.xp3.biz/",
+    "symbol": "W5C",
+    "name": "Web5Coin",
+    "description": "Web5coin  a decentralized blockchain network of the world-scale for multi-chain mining pools, aggregated DEX, DAO governance，Metaverse ，gamefi and NFT market applications.",
+    "website": "https://opensea.io/collection/anondzcap",
     "communities": {
-        "telegram": "https://telegram.me/coinskychat",
-        "twitter": "https://twitter.com/CoinSkyOfficial"
+        "telegram": "https://t.me/AnonDZeth",
+        "twitter": "https://twitter.com/AnonDZeth"
     }
 }
